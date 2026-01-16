@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ex2_ReadingInput_user/1.0.0": {
+        "runtime": {
+          "Ex2_ReadingInput_user.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex2_ReadingInput_user/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

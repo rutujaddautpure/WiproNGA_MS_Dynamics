@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rutuja Dautpure\\source\\repos\\WiproNGA_MS_Dynamics\\C#Basics_.Net\\Day4\\UserDefined_Types\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F80E1CC-BFAB-4E92-B05B-68908434F656}|UserDefined_Types\\UserDefined_Types.csproj|c:\\users\\rutuja dautpure\\source\\repos\\wipronga_ms_dynamics\\c#basics_.net\\day4\\userdefined_types\\userdefined_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F80E1CC-BFAB-4E92-B05B-68908434F656}|UserDefined_Types\\UserDefined_Types.csproj|solutionrelative:userdefined_types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rutuja Dautpure\\source\\repos\\WiproNGA_MS_Dynamics\\C#Basics_.Net\\Day4\\UserDefined_Types\\UserDefined_Types\\Program.cs",
+              "RelativeDocumentMoniker": "UserDefined_Types\\Program.cs",
+              "ToolTip": "C:\\Users\\Rutuja Dautpure\\source\\repos\\WiproNGA_MS_Dynamics\\C#Basics_.Net\\Day4\\UserDefined_Types\\UserDefined_Types\\Program.cs*",
+              "RelativeToolTip": "UserDefined_Types\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:20:59.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

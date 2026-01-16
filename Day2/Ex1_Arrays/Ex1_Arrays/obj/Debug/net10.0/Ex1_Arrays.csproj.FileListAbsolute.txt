@@ -1,0 +1,14 @@
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\bin\Debug\net10.0\Ex1_Arrays.exe
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\bin\Debug\net10.0\Ex1_Arrays.deps.json
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\bin\Debug\net10.0\Ex1_Arrays.runtimeconfig.json
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\bin\Debug\net10.0\Ex1_Arrays.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\bin\Debug\net10.0\Ex1_Arrays.pdb
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\obj\Debug\net10.0\Ex1_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\obj\Debug\net10.0\Ex1_Arrays.AssemblyInfoInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\obj\Debug\net10.0\Ex1_Arrays.AssemblyInfo.cs
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\obj\Debug\net10.0\Ex1_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\obj\Debug\net10.0\Ex1_Arrays.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\obj\Debug\net10.0\refint\Ex1_Arrays.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\obj\Debug\net10.0\Ex1_Arrays.pdb
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\obj\Debug\net10.0\Ex1_Arrays.genruntimeconfig.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex1_Arrays\Ex1_Arrays\obj\Debug\net10.0\ref\Ex1_Arrays.dll

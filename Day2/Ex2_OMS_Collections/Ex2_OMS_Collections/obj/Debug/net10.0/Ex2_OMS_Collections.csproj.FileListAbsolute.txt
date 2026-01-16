@@ -1,0 +1,14 @@
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\obj\Debug\net10.0\Ex2_OMS_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\obj\Debug\net10.0\Ex2_OMS_Collections.AssemblyInfoInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\obj\Debug\net10.0\Ex2_OMS_Collections.AssemblyInfo.cs
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\obj\Debug\net10.0\Ex2_OMS_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\bin\Debug\net10.0\Ex2_OMS_Collections.exe
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\bin\Debug\net10.0\Ex2_OMS_Collections.deps.json
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\bin\Debug\net10.0\Ex2_OMS_Collections.runtimeconfig.json
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\bin\Debug\net10.0\Ex2_OMS_Collections.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\bin\Debug\net10.0\Ex2_OMS_Collections.pdb
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\obj\Debug\net10.0\Ex2_OMS_Collections.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\obj\Debug\net10.0\refint\Ex2_OMS_Collections.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\obj\Debug\net10.0\Ex2_OMS_Collections.pdb
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\obj\Debug\net10.0\Ex2_OMS_Collections.genruntimeconfig.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day2\Ex2_OMS_Collections\Ex2_OMS_Collections\obj\Debug\net10.0\ref\Ex2_OMS_Collections.dll

@@ -1,0 +1,14 @@
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\bin\Debug\net10.0\Ex3_String_Stringbuffer.exe
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\bin\Debug\net10.0\Ex3_String_Stringbuffer.deps.json
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\bin\Debug\net10.0\Ex3_String_Stringbuffer.runtimeconfig.json
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\bin\Debug\net10.0\Ex3_String_Stringbuffer.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\bin\Debug\net10.0\Ex3_String_Stringbuffer.pdb
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\obj\Debug\net10.0\Ex3_String_Stringbuffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\obj\Debug\net10.0\Ex3_String_Stringbuffer.AssemblyInfoInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\obj\Debug\net10.0\Ex3_String_Stringbuffer.AssemblyInfo.cs
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\obj\Debug\net10.0\Ex3_String_Stringbuffer.csproj.CoreCompileInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\obj\Debug\net10.0\Ex3_String_Stringbuffer.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\obj\Debug\net10.0\refint\Ex3_String_Stringbuffer.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\obj\Debug\net10.0\Ex3_String_Stringbuffer.pdb
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\obj\Debug\net10.0\Ex3_String_Stringbuffer.genruntimeconfig.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex3_String_Stringbuffer\Ex3_String_Stringbuffer\obj\Debug\net10.0\ref\Ex3_String_Stringbuffer.dll

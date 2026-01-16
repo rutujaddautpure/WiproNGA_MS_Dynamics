@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rutuja Dautpure\\source\\repos\\WiproNGA_MS_Dynamics\\C#Basics_.Net\\Day4\\Ex_FileHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{096BAA9E-D2DA-4BEC-8DCE-EBCA4A9E5432}|Ex_FileHandling\\Ex_FileHandling.csproj|c:\\users\\rutuja dautpure\\source\\repos\\wipronga_ms_dynamics\\c#basics_.net\\day4\\ex_filehandling\\ex_filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096BAA9E-D2DA-4BEC-8DCE-EBCA4A9E5432}|Ex_FileHandling\\Ex_FileHandling.csproj|solutionrelative:ex_filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rutuja Dautpure\\source\\repos\\WiproNGA_MS_Dynamics\\C#Basics_.Net\\Day4\\Ex_FileHandling\\Ex_FileHandling\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_FileHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\Rutuja Dautpure\\source\\repos\\WiproNGA_MS_Dynamics\\C#Basics_.Net\\Day4\\Ex_FileHandling\\Ex_FileHandling\\Program.cs*",
+              "RelativeToolTip": "Ex_FileHandling\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T03:22:55.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

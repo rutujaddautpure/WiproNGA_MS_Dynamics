@@ -1,0 +1,14 @@
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\bin\Debug\net10.0\Ex2_ReadingInput_user.exe
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\bin\Debug\net10.0\Ex2_ReadingInput_user.deps.json
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\bin\Debug\net10.0\Ex2_ReadingInput_user.runtimeconfig.json
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\bin\Debug\net10.0\Ex2_ReadingInput_user.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\bin\Debug\net10.0\Ex2_ReadingInput_user.pdb
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\obj\Debug\net10.0\Ex2_ReadingInput_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\obj\Debug\net10.0\Ex2_ReadingInput_user.AssemblyInfoInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\obj\Debug\net10.0\Ex2_ReadingInput_user.AssemblyInfo.cs
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\obj\Debug\net10.0\Ex2_ReadingInput_user.csproj.CoreCompileInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\obj\Debug\net10.0\Ex2_ReadingInput_user.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\obj\Debug\net10.0\refint\Ex2_ReadingInput_user.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\obj\Debug\net10.0\Ex2_ReadingInput_user.pdb
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\obj\Debug\net10.0\Ex2_ReadingInput_user.genruntimeconfig.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day1\Ex2_ReadingInput_user\Ex2_ReadingInput_user\obj\Debug\net10.0\ref\Ex2_ReadingInput_user.dll

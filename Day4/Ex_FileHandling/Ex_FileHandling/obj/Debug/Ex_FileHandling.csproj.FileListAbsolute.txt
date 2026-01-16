@@ -1,0 +1,7 @@
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\Ex_FileHandling\Ex_FileHandling\bin\Debug\Ex_FileHandling.exe.config
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\Ex_FileHandling\Ex_FileHandling\bin\Debug\Ex_FileHandling.exe
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\Ex_FileHandling\Ex_FileHandling\bin\Debug\Ex_FileHandling.pdb
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\Ex_FileHandling\Ex_FileHandling\obj\Debug\Ex_FileHandling.csproj.AssemblyReference.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\Ex_FileHandling\Ex_FileHandling\obj\Debug\Ex_FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\Ex_FileHandling\Ex_FileHandling\obj\Debug\Ex_FileHandling.exe
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\Ex_FileHandling\Ex_FileHandling\obj\Debug\Ex_FileHandling.pdb

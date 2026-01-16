@@ -1,0 +1,14 @@
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\bin\Debug\net10.0\UserDefined_Types.exe
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\bin\Debug\net10.0\UserDefined_Types.deps.json
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\bin\Debug\net10.0\UserDefined_Types.runtimeconfig.json
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\bin\Debug\net10.0\UserDefined_Types.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\bin\Debug\net10.0\UserDefined_Types.pdb
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\obj\Debug\net10.0\UserDefined_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\obj\Debug\net10.0\UserDefined_Types.AssemblyInfoInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\obj\Debug\net10.0\UserDefined_Types.AssemblyInfo.cs
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\obj\Debug\net10.0\UserDefined_Types.csproj.CoreCompileInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\obj\Debug\net10.0\UserDefined_Types.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\obj\Debug\net10.0\refint\UserDefined_Types.dll
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\obj\Debug\net10.0\UserDefined_Types.pdb
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\obj\Debug\net10.0\UserDefined_Types.genruntimeconfig.cache
+C:\Users\Rutuja Dautpure\source\repos\WiproNGA_MS_Dynamics\C#Basics_.Net\Day4\UserDefined_Types\UserDefined_Types\obj\Debug\net10.0\ref\UserDefined_Types.dll
