@@ -1,0 +1,7 @@
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day8\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day8\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day8\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll.config
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day8\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day8\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day8\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day8\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb

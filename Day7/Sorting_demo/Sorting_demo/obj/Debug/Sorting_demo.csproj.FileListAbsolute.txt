@@ -1,0 +1,7 @@
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day7\Sorting_demo\Sorting_demo\bin\Debug\Sorting_demo.exe.config
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day7\Sorting_demo\Sorting_demo\bin\Debug\Sorting_demo.exe
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day7\Sorting_demo\Sorting_demo\bin\Debug\Sorting_demo.pdb
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day7\Sorting_demo\Sorting_demo\obj\Debug\Sorting_demo.csproj.AssemblyReference.cache
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day7\Sorting_demo\Sorting_demo\obj\Debug\Sorting_demo.csproj.CoreCompileInputs.cache
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day7\Sorting_demo\Sorting_demo\obj\Debug\Sorting_demo.exe
+C:\Users\Rutuja Dautpure\source\repos\rutujaddautpure\WiproNGA_MS_Dynamics\Day7\Sorting_demo\Sorting_demo\obj\Debug\Sorting_demo.pdb
