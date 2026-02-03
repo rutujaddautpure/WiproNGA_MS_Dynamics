@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex2_ReadingInput_user")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abee8cee6d98b43f48c9594bd08cac6b411a4518")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex2_ReadingInput_user")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex2_ReadingInput_user")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
