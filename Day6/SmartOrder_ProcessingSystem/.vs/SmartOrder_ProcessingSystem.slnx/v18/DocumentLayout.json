@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rutuja Dautpure\\source\\repos\\rutujaddautpure\\WiproNGA_MS_Dynamics\\Day6\\SmartOrder_ProcessingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD07CCA1-809E-40CC-8E0E-92A252F6133E}|SmartOrder_ProcessingSystem\\SmartOrder_ProcessingSystem.csproj|c:\\users\\rutuja dautpure\\source\\repos\\rutujaddautpure\\wipronga_ms_dynamics\\day6\\smartorder_processingsystem\\smartorder_processingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD07CCA1-809E-40CC-8E0E-92A252F6133E}|SmartOrder_ProcessingSystem\\SmartOrder_ProcessingSystem.csproj|solutionrelative:smartorder_processingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rutuja Dautpure\\source\\repos\\rutujaddautpure\\WiproNGA_MS_Dynamics\\Day6\\SmartOrder_ProcessingSystem\\SmartOrder_ProcessingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SmartOrder_ProcessingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Rutuja Dautpure\\source\\repos\\rutujaddautpure\\WiproNGA_MS_Dynamics\\Day6\\SmartOrder_ProcessingSystem\\SmartOrder_ProcessingSystem\\Program.cs",
+              "RelativeToolTip": "SmartOrder_ProcessingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:12:53.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
