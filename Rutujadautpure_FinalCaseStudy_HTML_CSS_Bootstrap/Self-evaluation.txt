@@ -1,0 +1,6 @@
+Structure & Semantics: Level 3
+Styling & Layout: Level 3
+Responsiveness: Level 3
+Accessibility: Level 3
+JavaScript Logic: Level 3
+Bootstrap Usage: Level 3

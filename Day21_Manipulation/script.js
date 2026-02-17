@@ -103,3 +103,4 @@ addEventBtn.addEventListener("click", function () {
 
     displayEvents();
 });
+
